@@ -1,0 +1,16 @@
+C:\Projects\C#\HW1\task5\bin\Debug\net5.0\task5.exe
+C:\Projects\C#\HW1\task5\bin\Debug\net5.0\task5.deps.json
+C:\Projects\C#\HW1\task5\bin\Debug\net5.0\task5.runtimeconfig.json
+C:\Projects\C#\HW1\task5\bin\Debug\net5.0\task5.runtimeconfig.dev.json
+C:\Projects\C#\HW1\task5\bin\Debug\net5.0\task5.dll
+C:\Projects\C#\HW1\task5\bin\Debug\net5.0\ref\task5.dll
+C:\Projects\C#\HW1\task5\bin\Debug\net5.0\task5.pdb
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.AssemblyInfoInputs.cache
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.AssemblyInfo.cs
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.csproj.CoreCompileInputs.cache
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.dll
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\ref\task5.dll
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.pdb
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.genruntimeconfig.cache
+C:\Projects\C#\HW1\task5\obj\Debug\net5.0\task5.csproj.AssemblyReference.cache
